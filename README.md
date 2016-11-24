@@ -1,4 +1,7 @@
 # learn_source
+#https://github.com/FrayxRulez/SwipeListView
+#https://github.com/daimajia/AndroidSwipeLayout
+#https://github.com/yanzhenjie/SwipeRecyclerView
 ![Renderings](https://github.com/qq497674061/learn_source/blob/master/LineCharView.gif) 
 ![Renderings](https://github.com/qq497674061/learn_source/blob/master/wireframe.gif) 
 <br/>
