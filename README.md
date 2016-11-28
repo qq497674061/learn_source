@@ -3,6 +3,7 @@
 #https://github.com/daimajia/AndroidSwipeLayout
 #https://github.com/yanzhenjie/SwipeRecyclerView
 #https://github.com/Kelin-Hong/CalendarListView
+#https://github.com/googlesamples/android-UniversalMusicPlayer
 ![Renderings](https://github.com/qq497674061/learn_source/blob/master/LineCharView.gif) 
 ![Renderings](https://github.com/qq497674061/learn_source/blob/master/wireframe.gif) 
 <br/>
