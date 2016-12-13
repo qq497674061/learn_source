@@ -1,3 +1,8 @@
+
+#超炫动画菜单
+#https://github.com/Nightonke/BoomMenu?utm_source=gank.io&utm_medium=email
+#悬浮窗权限兼容库
+#https://github.com/czy1121/overlaypermission?utm_source=gank.io&utm_medium=email
 # learn_source
 #https://github.com/FrayxRulez/SwipeListView
 #https://github.com/daimajia/AndroidSwipeLayout
